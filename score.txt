@@ -1,0 +1,10 @@
+9
+winwin	40
+cnt	20
+abc	0
+2	0
+2	0
+l	0
+a	0
+a	0
+aaa	0
